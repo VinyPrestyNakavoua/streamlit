@@ -1,6 +1,4 @@
-Here is a draft README.md for the repository `streamlit`:
 
-```markdown
 # streamlit
 Streamlit Apps for data science
 
